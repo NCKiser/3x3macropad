@@ -1,5 +1,11 @@
 This repository holds the QMK code and case STL for the 3x3 macropad.
 
+![Cover Image](https://github.com/NCKiser/3x3macropad/blob/main/Photos/3X3Macropad.jpg?raw=true)
+
+![DSA Caps](https://github.com/NCKiser/3x3macropad/blob/main/Photos/DSAcaps.jpg?raw=true)
+
+![Case Bottom](https://github.com/NCKiser/3x3macropad/blob/main/Photos/CaseBottom.jpg?raw=true)
+
 Default Keymap is:\
 [1][2][3]\
 [4][5][6]\
