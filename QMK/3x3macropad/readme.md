@@ -1,6 +1,5 @@
 A 3x3 made and sold by Kiser Designs (Noah Kiser, contact@kiserdesigns.com)
 
-Keyboard Maintainer: QMK Community  
 Hardware Supported: NoahK 3x3 Macropad PCB, ATmega32U4  
 Hardware Availability: [KiserDesigns.com](http://kiserdesigns.com/)
 
