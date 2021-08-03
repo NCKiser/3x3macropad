@@ -8,6 +8,8 @@ Download and install Vial to re-configure your 3x3 macropad on the fly: https://
 
 ![Case Bottom](https://github.com/NCKiser/3x3macropad/blob/main/Photos/CaseBottom.jpg?raw=true)
 
+![Orange Front](https://github.com/NCKiser/3x3macropad/blob/main/Photos/OrangeFront.jpg?raw=true)
+
 Default Keymap is:\
 [1][2][3]\
 [4][5][6]\
@@ -17,3 +19,6 @@ and while holding [9/Fn]:\
 [Esc][+][-]\
 [Ret][*][/]\
 [0][.] [trns]
+
+
+(Orange Case photos coutesy of Eter#3834 on Discord. Case color is black when purchased from KiserDesigns.com)
